@@ -1,6 +1,6 @@
 ## Administration helpDesk REST API
 - Projektas skirtas administratoriams valdyti klientu uzklausas (nutikus tam tikromis problemomis susijusiom su kompiurterine iranga).
-- Projektas skirti klientams registruoti uzklausas susijusias su programines irangos gedimais.
+- Projektas skirtas klientams registruoti uzklausas susijusias su programines irangos gedimais.
 
 ## Technologijos
 - Node JS
